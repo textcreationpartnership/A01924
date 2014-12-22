@@ -36,9 +36,11 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-England and Scotlands happinesse in being reduced to vnitie of religion, vnder our invincible monark
+
 #####Body#####
-England and Scotlands happinesse in being reduced to vnitie of religion, vnder our invincible monark
+
+1. A Panegyrique of Congratulation for the concord of the realmes of great Brittaine, in vnitie of religion vnder one King.
+
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
